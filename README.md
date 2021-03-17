@@ -1,0 +1,1 @@
+This is version 1.0 of Magic Notes. This website is created using HTML,Javascript and Bootstrap CSS.
